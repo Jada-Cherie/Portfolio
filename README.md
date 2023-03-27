@@ -1,7 +1,8 @@
 # Portfolio
 This is my Web Developer Portfolio that I made to represent myself on a digital platform and to give Employers/Customers a glimpse into the work I have done.
 
-How It's Made:
+<h2>How It's Made:</h2>
+
 Tech used: HTML, CSS, JavaScript, Framework of choice
 
 I utilized a Portfolio Template when I made this portfolio. I changed some things in terms of design color in CSS as well as input HTML to better advertise myself.
